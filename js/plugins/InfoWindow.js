@@ -68,7 +68,7 @@
 				this.drawIcon(94, 86, -3);
 			  this.drawText($gameVariables.value(201),125,-3);
 		this.resetTextColor();
-				this.drawText("/",176,2);
+				this.drawText("/",176,0);
 				this.drawText($gameVariables.value(202),190,-3);
 				this.resetTextColor();
 				//経験値
@@ -77,7 +77,7 @@
 				this.drawText($gameVariables.value(16),40,18);
 				this.resetTextColor();
 		this.changeTextColor(this.textColor(0));
-				this.drawText("/",130,23);
+				this.drawText("/",130,21);
 				this.drawText($gameVariables.value(18),144,18);
 				this.resetTextColor();
 	};
