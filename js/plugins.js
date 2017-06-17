@@ -3,7 +3,7 @@
 var $plugins =
 [
 {"name":"OnlineAvatar","status":false,"description":"Firebaseを使ってプレイヤーをオンライン同期します。","parameters":{"apiKey":"AIzaSyDhvH2mOA9umNksBASmaSvqB-rKSP9Ok7o","authDomain":"psur0617.firebaseapp.com","databaseURL":"https://psur0617.firebaseio.com","avatarEvent":"3","syncSwitchStart":"51","syncSwitchEnd":"150","syncVariableStart":"21","syncVariableEnd":"200"}},
-{"name":"TMNamePop","status":false,"description":"イベントの頭上に文字列を表示する機能を追加します。","parameters":{"backOpacity":"96","fontSize":"20","outlineWidth":"4","outlineColor":"rgba(0, 0, 0, 0.5)","width":"300","roundRectRadius":"6"}},
+{"name":"TMNamePop","status":true,"description":"イベントの頭上に文字列を表示する機能を追加します。","parameters":{"backOpacity":"96","fontSize":"20","outlineWidth":"4","outlineColor":"rgba(0, 0, 0, 0.5)","width":"300","roundRectRadius":"6"}},
 {"name":"TMEventItemEx","status":false,"description":"アイテム選択の処理にヘルプウィンドウを追加し、\n個数表示の有無と表示行数をアイテムタイプごとに設定できます。","parameters":{"helpWindowEnabledItem":"0","helpWindowEnabledKey":"0","helpWindowEnabledA":"0","helpWindowEnabledB":"0","showItemNumberItem":"1","showItemNumberKey":"0","showItemNumberA":"1","showItemNumberB":"1","numVisibleRowsItem":"4","numVisibleRowsKey":"4","numVisibleRowsA":"4","numVisibleRowsB":"4","fixPlacement":"bottom"}},
 {"name":"CustomizeConfigDefault","status":false,"description":"オプションデフォルト値設定プラグイン","parameters":{"常時ダッシュ":"ON","コマンド記憶":"OFF","BGM音量":"100","BGS音量":"100","ME音量":"100","SE音量":"100","常時ダッシュ消去":"ON","コマンド記憶消去":"ON","BGM音量消去":"OFF","BGS音量消去":"OFF","ME音量消去":"OFF","SE音量消去":"OFF"}},
 {"name":"Rubi_riru","status":false,"description":"ルビ振りを行います。用語登録によるオートルビ振り機能つき。","parameters":{"Auto Ruby":"true","Help Auto Ruby":"true","Database Auto Ruby":"true","Jisage":"2","Ruby Size":"-1"}},
