@@ -1,9 +1,9 @@
 [
 null,
-{"id":1,"expanded":false,"name":"街","order":1,"parentId":0,"scrollX":1001.4,"scrollY":1035.6},
-{"id":2,"expanded":false,"name":"初期","order":3,"parentId":0,"scrollX":658,"scrollY":510.6666666666667},
+{"id":1,"expanded":false,"name":"街","order":1,"parentId":0,"scrollX":1059.2727272727273,"scrollY":835.6363636363636},
+{"id":2,"expanded":false,"name":"初期","order":3,"parentId":0,"scrollX":592.1999999999999,"scrollY":459.59999999999997},
 {"id":3,"expanded":false,"name":"道具屋","order":8,"parentId":0,"scrollX":592.1999999999999,"scrollY":459.59999999999997},
-{"id":4,"expanded":true,"name":"スキン","order":4,"parentId":0,"scrollX":848,"scrollY":624},
+{"id":4,"expanded":true,"name":"スキン","order":4,"parentId":0,"scrollX":847.8,"scrollY":450},
 {"id":5,"expanded":false,"name":"ロビー","order":6,"parentId":0,"scrollX":832,"scrollY":640},
 {"id":6,"expanded":false,"name":"ダミーマップ","order":2,"parentId":1,"scrollX":896,"scrollY":746},
 {"id":7,"expanded":true,"name":"Co-op1","order":9,"parentId":0,"scrollX":1175.3999999999999,"scrollY":1227.6},
