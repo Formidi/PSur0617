@@ -23,5 +23,5 @@ var $plugins =
 {"name":"HTN_SaveMax","status":true,"description":"セーブ最大数を変更します","parameters":{"Max Quantity":"1"}},
 {"name":"BB_CustomSaveWindow","status":true,"description":"セーブウインドウ改造プラグイン","parameters":{"OutsideFrameColor":"0","OutsideFrameOpacity":"64","InsideFrameColor":"0","InsideFrameOpacity":"64","MaxItem":"4","Item0":"9","Item0Length":"200","Item1title":"総プレイ時間","Item1":"2","Item2title":"累計撃破数","Item2":"8","Item3title":"所持金","Item3":"6","Item4title":"Level","Item4":"7","Item5":"0","ItemValue1":"17","ItemValue2":"20","ItemValue3":"236","ItemValue4":"10","ItemValue1unit":"S","ItemValue2unit":"","ItemValue3unit":"体","ItemValue4unit":"","TitleFramelength1":"130","TitleFramelength2":"130","TitleFramelength3":"130","TitleFramelength4":"130","CharacterPositionY":"12","LevelPositionY":"23","LevelOnOff":"0"}},
 {"name":"InfoWindow","status":false,"description":"情報表示ウィンドウをメニュー画面に追加するプラグイン","parameters":{}},
-{"name":"VersionSpecified","status":true,"description":"【MMP ver.1.0】タイトル画面にバージョンを明記します。","parameters":{"version":"Ver 0.2.57","fontSize":"20","fontColor":"rgb(255, 255, 255)","windowX":"540","windowY":"560"}}
+{"name":"VersionSpecified","status":true,"description":"【MMP ver.1.0】タイトル画面にバージョンを明記します。","parameters":{"version":"Ver 0.2.58","fontSize":"20","fontColor":"rgb(255, 255, 255)","windowX":"540","windowY":"560"}}
 ];
